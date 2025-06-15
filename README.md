@@ -14,14 +14,12 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline that tak
 
 ### Dataset
 1) https://www.kaggle.com/datasets/Cornell-University/arxiv  OR
-2) Any pdf of your own (I have uploaded samples)
+2) Any pdf of your own 
 
 ### Project Structure
 ├── main_pdf.py # Main for pdf
 ├── main_dataset # Main for Kaggle dataset
 ├── functions.py # Contains helper functions: chunking, embedding, retrieval
-├── sample.pdf # Your input PDF file 1
-├── sample2.pdf # Your input PDF file 2
 ├── requirements.txt # List of required Python packages
 ├── description.docx #Details of each step
 ├── README.md # This file
