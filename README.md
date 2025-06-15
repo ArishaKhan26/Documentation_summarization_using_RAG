@@ -13,8 +13,8 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline that tak
 - Displays performance metrics including token usage and cosine similarity.
 
 ### Dataset
-1)https://www.kaggle.com/datasets/Cornell-University/arxiv  OR
-2)Any pdf of your own
+1) https://www.kaggle.com/datasets/Cornell-University/arxiv  OR
+2) Any pdf of your own (I have uploaded samples)
 
 ### Project Structure
 ├── main_pdf.py # Main for pdf
