@@ -17,12 +17,12 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline that tak
 2) Any pdf of your own 
 
 ### Project Structure
-├── main_pdf.py # Main for pdf
-├── main_dataset # Main for Kaggle dataset
-├── functions.py # Contains helper functions: chunking, embedding, retrieval
-├── requirements.txt # List of required Python packages
-├── description.docx #Details of each step
-├── README.md # This file
+main_pdf.py # Main for pdf
+main_dataset # Main for Kaggle dataset
+functions.py # Contains helper functions: chunking, embedding, retrieval
+requirements.txt # List of required Python packages
+description.docx #Details of each step
+README.md # This file
 
 ### How to Run
 Step 1: Set Up Your Project Folder
